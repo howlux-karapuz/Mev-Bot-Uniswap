@@ -152,3 +152,4 @@ Currently, the bot is designed exclusively for Ethereum and Uniswap pools.
 1. Fork the repository.
 2. Add your enhancements (e.g., new pool filters, gas optimizations).
 3. Submit a pull request!
+ 
